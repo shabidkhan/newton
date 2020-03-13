@@ -7,7 +7,7 @@ name: Ek baar karo! Anek baar karvao. Functions ka dhamaal
 function printList(listToPrint) {
         var listLength = listToPrint.length;
         var index = 0;
-        while(index < listLength)
+        while(index < listLength){
             console.log(listToPrint[i]);
             index = index + 1;
         }
